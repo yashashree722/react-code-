@@ -58,7 +58,7 @@ const darkModeStyles = {
   },
 };
 
-const NAME = 'Your Name';
+const NAME = 'Yashashree ';
 const ABOUT_ME =
   'I am a passionate web developer with a focus on creating delightful user experiences. My skills include React, HTML, CSS, and more.';
 const PROJECTS = ['Project 1 - Description', 'Project 2 - Description']; // Add more projects as needed
